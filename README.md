@@ -76,10 +76,10 @@ It's one of my favorite personal projects so far because it combines my interest
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ting-Lii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ting-Lii&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+![Top Langs](https://github-readme-stats-psi-three-51.vercel.app/api/top-langs/?username=Ting-Lii&layout=compact&theme=tokyonight)
+
+![Ashley’s GitHub stats](https://github-readme-stats-psi-three-51.vercel.app/api?username=Ting-Lii&show_icons=true&theme=tokyonight)
+
 
 ---
 
