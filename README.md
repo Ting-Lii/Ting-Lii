@@ -76,7 +76,7 @@ It's one of my favorite personal projects so far because it combines my interest
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats-psi-three-51.vercel.app/api/top-langs/?username=Ting-Lii&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-psi-three-51.vercel.app/api/top-langs/?username=Ting-Lii&layout=compact&theme=tokyonight&cache_seconds=10)
 
 ---
 
